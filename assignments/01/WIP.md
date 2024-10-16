@@ -18,9 +18,9 @@
 | \**x** | Fett |
 | \*,-,+  | Aufzählung |
 
-Data Science is like fishing in the sea, you need specific equipment and knowledge to catch the intended fish or to gather the intended data. 
+*Data Science is like fishing in the sea, you need specific equipment and knowledge to catch the intended fish or to gather the intended data.* 
 
-`print("Hello World!")`
+    `print("Hello World!")`
 
 
 # Three other markdown-formatted contents
